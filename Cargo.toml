@@ -5,7 +5,7 @@ authors = ["Jeff Muizelaar <jrmuizel@gmail.com>"]
 edition = "2018"
 license = "MIT/Apache-2.0"
 repository = "https://github.com/jrmuizel/build-parallel"
-documentation = "https://doc.rs/build-parallel"
+documentation = "https://docs.rs/build-parallel"
 description = """
 A helper library to let you parallelize work in build.rs
 using the jobserver
